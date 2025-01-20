@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+transformers
+openai
+FLASK == 2.3.3
