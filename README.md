@@ -1,3 +1,8 @@
+---
+sdk: docker
+app_port: 7860
+---
+
 ![Cabecera](./assets/cabecera_readme.png)
 
 ***![Cabecera](./assets/cabecera_readme.png)***
@@ -83,3 +88,4 @@ Si deseas contribuir al proyecto:
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
