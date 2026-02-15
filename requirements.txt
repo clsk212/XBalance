@@ -1,7 +1,7 @@
-pandas
+Flask==2.3.3
+openai
 numpy
+pandas
 matplotlib
 seaborn
-transformers
-openai
-FLASK == 2.3.3
+gunicorn
